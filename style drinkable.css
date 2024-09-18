@@ -1,0 +1,98 @@
+ul {
+     list-style-type: none;
+     text-align: right;
+     margin: 0;
+     padding: 0;
+     width: 800px;
+     height: 25px;
+   
+}
+li {
+    display: inline;
+}
+li a {
+    color: #727272;
+    padding: 9px 10px;
+    text-align: center;
+    text-decoration: none;
+}
+/* change the link color on hover*/
+li a:hover{
+    text-decoration: underline;
+    color: #8f5843;
+}
+button {
+    border-radius: 5px;
+    padding: 5px;
+    background-color: brown;
+    color: white;
+}
+button {
+    border-radius: 5px;
+    padding: 5px;
+    background-color: brown;
+    color: white;
+}
+img {
+    border-radius: 5px;
+    padding: 5px;
+    color: white;
+
+}
+#drink{
+    color: #8f5843;
+}
+h1{
+    font-size: 60px;
+    color: #727272;
+    font-weight: 700;
+}
+.main{
+    padding-left: 80px;
+    padding-top: 50px;
+}
+.google img{
+    width: 30%;
+}
+.apps img{
+
+    width: 30%;
+}
+.phone img {
+    width: 80%;
+    position: relative;
+    top: 20px;
+    
+}
+.container{
+    display: flex;
+    justify-content: space-between;   
+    
+}
+p {
+    color: #8f5843;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.logo img{
+    width: 40%;
+    padding: 50px 0 0 80px;
+}
+.navbar {
+    padding: 10px;
+    text-align: center;
+}
+.navbar ul li a{
+  font-size: 18px;
+
+}
+.download img{
+    position: relative;
+    top: 20px;
+    width: 130px;
+    padding-right: 80px;
+    padding-top: 10px;
+    
+}
